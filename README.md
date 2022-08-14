@@ -13,7 +13,7 @@
 项目经历包括：
 
 - 大一年级至今，THUInfo iOS 维护及部分功能
-- 大二年级，计算机系学生科协网络部副主席，技能引导文档维护
+- 大三年级，计算机系学生科协网络部副主席，技能引导文档维护
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ashitemaru&column=7)](https://github.com/Ashitemaru)
 
