@@ -20,20 +20,10 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-318%20Thousand%20lines%20of%20code-blue)
 
-> 🏆 264 Contributions in the Year 2022
- > 
-> 📦 612.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
 **I Mostly Code in Python** 
 
 ```text
@@ -46,12 +36,8 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Ashitemaru/Ashitemaru/master/charts/bar_graph.png) 
-
-
- Last Updated on 15/09/2022 09:04:14 UTC
+ Last Updated on 15/09/2022 18:57:15 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats
