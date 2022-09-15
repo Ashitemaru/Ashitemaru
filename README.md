@@ -18,6 +18,40 @@
 ## Waka Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 264 Contributions in the Year 2022
+ > 
+> 📦 612.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   26.92% 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
+C++                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Ashitemaru/Ashitemaru/master/charts/bar_graph.png) 
+
+
+ Last Updated on 15/09/2022 08:40:35 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats
