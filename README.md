@@ -23,13 +23,8 @@
 ## Github Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ashitemaru&column=7)](https://github.com/Ashitemaru)
-
-<a href="https://github.com/Ashitemaru">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ashitemaru&show_icons=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/Ashitemaru">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashitemaru&layout=compact" />
-</a>
+[![trophy](https://github-readme-stats.vercel.app/api?username=Ashitemaru&show_icons=true&include_all_commits=true)](https://github.com/Ashitemaru)
+[![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashitemaru&layout=compact)](https://github.com/Ashitemaru)
 
 <!--
 **Ashitemaru/Ashitemaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
