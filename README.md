@@ -18,9 +18,9 @@
 ## Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-318%20Thousand%20lines%20of%20code-blue)
 
@@ -82,7 +82,7 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2022 18:10:52 UTC
+ Last Updated on 16/09/2022 18:59:55 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats
