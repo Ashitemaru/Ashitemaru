@@ -19,9 +19,9 @@
 ## Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-996%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-998%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
@@ -52,20 +52,19 @@ Sunday                   600 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 56 mins       █████████████████████████   98.38 % 
-TypeScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Markdown                 7 hrs 29 mins       █████████████████████████   98.92 % 
+TypeScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Ashitemaru.github.io     5 hrs 56 mins       █████████████████████████   98.38 % 
-Playground               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Ashitemaru.github.io     7 hrs 29 mins       █████████████████████████   98.92 % 
+Playground               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-Mac                      6 hrs 2 mins        █████████████████████████   100.00 % 
+Mac                      7 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,7 +80,7 @@ DIGITAL Command Language 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2023 18:36:34 UTC
+ Last Updated on 11/09/2023 18:37:09 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats
