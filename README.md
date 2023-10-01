@@ -8,7 +8,8 @@
 
 - 大二年级，人智所刘知远实验室，自然语言处理方向，开放关系抽取项目
 - 大三年级，媒体所徐昆实验室，真实感渲染方向，可微渲染项目
-- 大三 / 大四年级，媒体所孙立峰实验室
+- 大三 / 大四年级，媒体所孙立峰实验室，ABR with Offline RL 项目
+- 博士一年级，媒体所孙立峰实验室，腾讯云游戏相关项目
 
 项目经历包括：
 
@@ -83,12 +84,6 @@ DIGITAL Command Language 2 repos             █░░░░░░░░░░�
 
  Last Updated on 30/09/2023 18:37:21 UTC
 <!--END_SECTION:waka-->
-
-## Github Stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ashitemaru&column=7)](https://github.com/Ashitemaru)
-[![trophy](https://github-readme-stats.vercel.app/api?username=Ashitemaru&show_icons=true&include_all_commits=true)](https://github.com/Ashitemaru)
-[![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashitemaru&layout=compact)](https://github.com/Ashitemaru)
 
 <!--
 **Ashitemaru/Ashitemaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
