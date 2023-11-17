@@ -20,9 +20,9 @@
 ## Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
@@ -53,16 +53,19 @@ Sunday                   670 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 mins              █████████████████████████   100.00 % 
+Python                   32 mins             █████████████████████░░░░   82.72 % 
+Other                    6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-THUInfo                  6 mins              █████████████████████████   100.00 % 
+Playground               33 mins             █████████████████████░░░░   83.80 % 
+THUInfo                  6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+Mac                      39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +81,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2023 18:38:40 UTC
+ Last Updated on 17/11/2023 18:38:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
