@@ -26,6 +26,45 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                259 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+🌆 Daytime                925 commits         ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+🌃 Evening                770 commits         ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+🌙 Night                  1335 commits        ██████████░░░░░░░░░░░░░░░   40.59 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   576 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Tuesday                  391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Wednesday                500 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Thursday                 397 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Friday                   388 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Saturday                 486 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Sunday                   551 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -39,7 +78,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2024 18:37:53 UTC
+ Last Updated on 28/08/2024 18:37:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
