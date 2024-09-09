@@ -20,9 +20,50 @@
 ## Waka Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C049%20hrs%2031%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                259 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+🌆 Daytime                925 commits         ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+🌃 Evening                770 commits         ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+🌙 Night                  1336 commits        ██████████░░░░░░░░░░░░░░░   40.61 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   577 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Tuesday                  391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Wednesday                500 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Thursday                 397 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Friday                   388 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Saturday                 486 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Sunday                   551 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in Python** 
 
@@ -37,7 +78,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2024 18:37:16 UTC
+ Last Updated on 09/09/2024 18:38:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
