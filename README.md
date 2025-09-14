@@ -11,7 +11,8 @@
     - 相关工作已被 SIGGRAPH Asia'22 接受
 - 大三/大四年级，媒体所孙立峰实验室，ABR with Offline RL 项目
 - 博士一年级/二年级，媒体所孙立峰实验室，腾讯 START 云游戏游戏相关项目
-    - 部分相关工作已投稿至 SIGCOMM'25 (rejected)，转投至 NSDI'26
+    - 恒定画质传输相关工作已投稿至 SIGCOMM'25 (rejected)，转投至 NSDI'26
+    - 帧率传输优化相关工作 suspended
 - 博士三年级，媒体所孙立峰实验室，快手生成式视频传输相关项目
 
 项目经历包括：
